@@ -1,4 +1,4 @@
-# ATS Tracker Using Google Gemini API
+# ATS Tracker Using Google Gemini APIs
 
 This project is an Applicant Tracking System (ATS) tracker built using the Google Gemini API and Streamlit. The tool allows users to upload their CV and input a job description. It then leverages the gemini-1.5-flash model to provide valuable insights about the CV, including a percentage match score for the job profile.
 
